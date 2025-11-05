@@ -30,8 +30,3 @@ This project demonstrates the use of **Java Collections Framework**, **Generics*
 - **GUI Library:** Swing / AWT  
 - **IDE Used:** (You can use IntelliJ IDEA / Eclipse / NetBeans)
 
----
-
-## 📸 Preview
-![App Screenshot]("C:\Users\debap\Pictures\Screenshots\Screenshot 2025-11-05 154252.png")
-
