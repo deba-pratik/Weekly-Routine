@@ -33,5 +33,5 @@ This project demonstrates the use of **Java Collections Framework**, **Generics*
 ---
 
 ## 📸 Preview
-*(You can add screenshots of your GUI here)*  
-Example:  
+![App Screenshot]("C:\Users\debap\Pictures\Screenshots\Screenshot 2025-11-05 154252.png")
+
