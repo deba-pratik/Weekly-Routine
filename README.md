@@ -22,18 +22,18 @@ This project demonstrates the use of **Java Collections Framework**, **Generics*
 | **Generics** | Provides type-safe collections and reusable methods |
 | **Event Handling** | Handles user interactions like button clicks and form submissions |
 | **Swing / AWT** | GUI components for user interface design |
-
 ---
-
-## 📸 Preview
-*(You can add screenshots of your GUI here)*  
-## 📸 Preview
-
-![App Screenshot]()
-
 
 ## 🖥️ Tech Stack
 - **Language:** Java  
 - **GUI Library:** Swing / AWT  
 - **IDE Used:** (You can use IntelliJ IDEA / Eclipse / NetBeans)
+- 
+  ---
+
+## 📸 Preview
+
+![App Screenshot](https://github.com/deba-pratik/Weekly-Routine/blob/main/Screenshot%202025-11-05%20154252.png)
+
+
 
