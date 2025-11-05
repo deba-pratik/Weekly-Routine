@@ -25,6 +25,13 @@ This project demonstrates the use of **Java Collections Framework**, **Generics*
 
 ---
 
+## 📸 Preview
+*(You can add screenshots of your GUI here)*  
+## 📸 Preview
+
+![App Screenshot]()
+
+
 ## 🖥️ Tech Stack
 - **Language:** Java  
 - **GUI Library:** Swing / AWT  
