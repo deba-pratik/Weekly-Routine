@@ -27,7 +27,7 @@ This project demonstrates the use of **Java Collections Framework**, **Generics*
 ## 🖥️ Tech Stack
 - **Language:** Java  
 - **GUI Library:** Swing / AWT  
-- **IDE Used:** (You can use IntelliJ IDEA / Eclipse / NetBeans)
+- **IDE Used:** IntelliJ IDEA 
 - 
   ---
 
